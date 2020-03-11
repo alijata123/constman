@@ -570,7 +570,7 @@ a:hover {
 
 .navigation .logo img {
   height: auto;
-  width: 140px;
+  width: 40px;
 }
 
 .navigation .navigation-menu li.active a {
@@ -633,7 +633,7 @@ a:hover {
   line-height: 60px;
   font-size: 20px;
   margin-left: 3px;
-  color: #57cbcc;
+  color: #000;
 }
 
 .hero-area .block h1 {
