@@ -42,12 +42,12 @@ p {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #57cbcc;
+  background: #FFD700;
 }
 
 ::selection {
   color: #fff;
-  background: #57cbcc;
+  background: #FFD700;
 }
 
 ol,
@@ -161,7 +161,7 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #57cbcc;
+  background-color: #FFD700;
 }
 
 .color {
@@ -241,7 +241,7 @@ a:hover {
 }
 
 .btn-main {
-  background: #57cbcc;
+  background: #FFD700;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -326,7 +326,7 @@ a:hover {
 .sk-cube-grid .sk-cube {
   width: 33%;
   height: 33%;
-  background-color: #57cbcc;
+  background-color: #fed136;
   float: left;
   -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
   animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
@@ -415,7 +415,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: #FFD700;
 }
 
 .title p {
@@ -574,7 +574,7 @@ a:hover {
 }
 
 .navigation .navigation-menu li.active a {
-  color: #57cbcc;
+  color: #FFD700;
 }
 
 .navigation .navigation-menu li a {
@@ -584,7 +584,7 @@ a:hover {
 
 .navigation .navigation-menu li a:hover, .navigation .navigation-menu li a:focus {
   background: transparent;
-  color: #57cbcc;
+  color: #FFD700;
 }
 
 .navbar-toggle {
@@ -783,7 +783,7 @@ a:hover {
 
 .about-2 .content-block .media i {
   font-size: 30px;
-  color: #57cbcc;
+  color: #FFD700;
 }
 
 .about-2 .content-block .media h4 {
@@ -856,12 +856,12 @@ a:hover {
 .contact-form input:hover,
 .contact-form textarea:hover,
 #contact-submit:hover {
-  border-color: #57cbcc;
+  border-color: #FFD700;
 }
 
 #contact-submit {
   border: 1px solid rgba(236, 239, 241, 0.07);
-  background: #57cbcc;
+  background: #FFD700;
   padding: 12px 0;
   width: 100%;
   margin: 0;
@@ -1592,7 +1592,7 @@ a:hover {
 }
 
 .social-icon ul li:hover a {
-  background-color: #57cbcc;
+  background-color: #FFD700;
   -webkit-transform: rotateY(0deg);
           transform: rotateY(0deg);
 }

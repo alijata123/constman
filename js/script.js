@@ -214,7 +214,7 @@ var scroll = new SmoothScroll('a[href*=\'#\']');
 function initialize() {
 	'use strict';
 
-	var myLatLng = new google.maps.LatLng(22.333851, 91.812256);
+	var myLatLng = new google.maps.LatLng(60.250314, 25.1126113);
 
 	var roadAtlasStyles = [{
 		'featureType': 'landscape',
